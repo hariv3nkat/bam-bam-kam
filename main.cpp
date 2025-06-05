@@ -2,11 +2,13 @@
 using namespace std;
 
 int main(){
+    int pizza;
+    cin>>pizza;
     
-     cout<<5;
+     cout<<6;
     
 
     
     
-    return 0;
+    
 }
